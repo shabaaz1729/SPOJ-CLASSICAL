@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
  
-class Main
+class ONP
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
